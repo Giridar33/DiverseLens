@@ -6,9 +6,7 @@ DiverseLens is a platform aimed at combating bias and misinformation while provi
 
 The genesis of DiverseLens stems from a confluence of personal experiences and societal observations. In today's digital age, the proliferation of misinformation and biased narratives on social media platforms and news outlets has become ubiquitous. Additionally, a fascination with machine learning and natural language processing further motivated the exploration of innovative solutions in this domain.
 
-## Development Journey
 
-The development of DiverseLens has been a profound learning experience, encompassing technical, ethical, and societal dimensions. Delving into the intricacies of machine learning algorithms for bias detection and fake news prediction has deepened understanding of data analysis and model interpretation. Furthermore, grappling with ethical considerations surrounding algorithmic biases and the responsibility of technology creators to mitigate them has broadened perspectives on the ethical implications of AI-driven solutions.
 
 ## Project Construction Method
 
